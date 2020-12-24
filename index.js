@@ -1,5 +1,2 @@
-var obj = { prop: 1 };
+var recipes = new Object();
 
-function updateObjectWithKeyAndValue(object, key, value){
-  return object.assign({}, obj, {[prop2]:2});
-}
